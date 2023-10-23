@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YohannesALE
-- 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in JavaScript SQL & Python
+- 🌱 I’m currently learning to become a Fullstack Developer.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me
 <!---
